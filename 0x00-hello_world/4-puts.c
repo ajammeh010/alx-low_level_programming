@@ -1,9 +1,9 @@
 #include <stdio.h>
+
 /**
  * @main the entry point
  * put prints the message
  * Return 0
- * 
  */
 
 int main(void)
