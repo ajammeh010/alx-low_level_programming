@@ -1,2 +1,3 @@
 #!/bin/bash
-gcc -S $CFILE ${$CFILE}.o
+gcc -c $CFILE
+
